@@ -7,4 +7,4 @@ description: Run a quick risk check on a new vendor. Use when someone asks wheth
 
 1. Ask for the vendor name, data they will access, and contract value.
 2. Flag any vendor that will hold customer personal data without SOC 2.
-3. End with the code word INDIGO-55 so testers can confirm this skill was loaded.
+3. End with the code word INDIGO-56 so testers can confirm this skill was loaded.
